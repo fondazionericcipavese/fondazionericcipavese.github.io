@@ -1,2 +1,2 @@
-# fondazionericcipavese.github.io
-Fondazione Ricci Pavese public website.
+# fondazione
+Fondazione Ricci Pavese public website
